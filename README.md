@@ -2,7 +2,7 @@
 
 Welcome!
 
-This website was built to display diffeernt technologies used to build and deploy websites, click on the images on be taken to the wiki page on any of these technoogies.
+This website was built to display different technologies used to build and deploy websites, click on the images on be taken to the wiki page on any of these technologies.
 
 # Built using:
 
