@@ -2,9 +2,9 @@
 
 Welcome!
 
-This website was built to display different technologies used to build and deploy websites, click on the images on be taken to the wiki page on any of these technologies.
+This website was built to display different technologies used to build and deploy websites, click on the images to be taken to the wiki page on any of these technologies.
 
-# Built using:
+## Built using:
 
 1. HTML5
 2. CSS3 
